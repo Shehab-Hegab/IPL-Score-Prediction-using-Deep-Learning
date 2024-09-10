@@ -6,4 +6,4 @@
 ![image](https://github.com/user-attachments/assets/bff67a3b-f434-44ac-a1fc-c2a10ca651dd)
 
 
-![image](https://github.com/user-attachments/assets/deaa6f50-9989-4ffa-9ba1-1a4fd165cb39)
+![IPL-score-prediction](https://github.com/user-attachments/assets/ea0ed618-889c-4b7f-bb58-92e3729ffbfc)
